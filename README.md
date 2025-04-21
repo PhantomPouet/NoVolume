@@ -7,3 +7,5 @@
   - When rotating the circle with your finger, you need to release the finger WHILE in the circle, or else the circle will stay render until you touch it rotate it again
 
 ### Satisfying haptic feedback and animations are coming, and also a one-handed mode, which are unique features, so stay tuned!
+
+![Volume slider presentation copie](https://github.com/user-attachments/assets/8d1a7b12-b70b-4d76-98b5-29e60b253eee)
